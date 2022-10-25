@@ -1,0 +1,2 @@
+#!/bin/bash Albright loves conspiracy Theories
+Python is fun!!
